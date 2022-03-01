@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An addresse to the Lord Mayor, Aldermen, and Common-Council of the honourable city of London, and in particular the representatives thereof in the Parliament now assembled. / By Sir Francis Nethersole of Nethersole, in the county of Kent, knight.</title>
+            <author>Nethersole, Francis, Sir, 1587-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04536</idno>
+            <idno type="STC">Wing N493</idno>
+            <idno type="STC">ESTC R218486</idno>
+            <idno type="EEBO-CITATION">53299200</idno>
+            <idno type="OCLC">ocm 53299200</idno>
+            <idno type="VID">179941</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179941)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2808:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An addresse to the Lord Mayor, Aldermen, and Common-Council of the honourable city of London, and in particular the representatives thereof in the Parliament now assembled. / By Sir Francis Nethersole of Nethersole, in the county of Kent, knight.</title>
+                  <author>Nethersole, Francis, Sir, 1587-1659.</author>
+                  <author>City of London (England). Lord Mayor's Court.</author>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[1], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Anno Dom. 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with slight loss of text.</note>
+                  <note>Reproduction of original in: University of Chicago Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179941:1"/>
+            <!-- PDF PAGE 88 -->
+            <pb facs="tcp:179941:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 88 -->
+            <p>AN ADDRESSE TO THE Lord Mayor, ALDERMEN, AND COMMON-COUNCEL Of the Honourable City of <hi>LONDON,</hi> And in particular to the <hi>Repreſenta<g ref="char:EOLhyphen"/>tives</hi> thereof in the Parliament now Aſſembled.</p>
+            <p>By Sir <hi>Francis Netherſole</hi> of <hi>Netherſole,</hi> in the County of <hi>Kent,</hi> Knight.</p>
+            <q>
+               <p>Except the Lord build the Houſe, they labour in vaine that build it: Except the Lord keep the City, the Watchman wa<g ref="char:EOLhyphen"/>keth but in vain,</p>
+               <bibl>Pſal. 127.1.</bibl>
+            </q>
+            <q>
+               <p>He that loveth Father or mother more then me, is not worthy of me,</p>
+               <bibl>Matth. 10.37.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed, <hi>Anno Dom.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179941:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 89 -->
+            <pb facs="tcp:179941:2"/>
+            <!-- PDF PAGE 89 -->
+            <opener>
+               <salute>My Lord, and Gentlemen.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Oone after the beginning of the late unnatural Warre between the King and his Parliament, the iſſue where<g ref="char:EOLhyphen"/>of hath proved deſtructive to them both, as I foretold the one of them that it would prove, before they, or ſome of them had deſtroy'd the o<g ref="char:EOLhyphen"/>ther; I was bold to dedicate certaine conſiderations thereupon to the then Lord Mayor, and Aldermen of the City, together with a project for a Petition tending to a ſpeedy accommodation of theſe unhappy differences, which ſome wiſe men have thought might have been of as good uſe as any other of the three then in agitation in the City; if it had found entertainment with them, who then were in authority there<g ref="char:EOLhyphen"/>in. And in the year, 1648. when the ſaid Warre was near to an end with us, and the then King and Parliament yet in being, I preſumed to addreſſe cer<g ref="char:EOLhyphen"/>taine Problems to the then Lord Mayor, Aldermen, and Common-Councel, which I thought neceſſary to be determined by all, that either had, or had not ta<g ref="char:EOLhyphen"/>ken part on either ſide in the ſaid Warre, for the making of their peace with God, and the diſpoſing
+<pb facs="tcp:179941:3"/>
+               <!-- PDF PAGE 90 -->of them to an hearty peace one with another, which I hope was no evil deſigne, though for good reaſon I diſguiſed my ſelf in the making of that, as I had concealed my ſelf in the former addreſſe. I ſhall now with open face make a third Addreſſe to your Lordſhip, the Aldermen, and Common-Councel, and in particular to the now choſen Members of Parlia<g ref="char:EOLhyphen"/>ment for the City, when I ſhall firſt have given your Lordſhip and them a ſhort account of my being as diſ-intereſſed a perſon in the ſad diviſions of the times as any other; which I cannot do more briefly, or more fully any other way, then by referring you to the annexed relations of my comportment in the late Warre towards both ſides, written at the date of them upon the occaſion of my having then been a Pe<g ref="char:EOLhyphen"/>titioner to the Committee of <hi>Coventry</hi> for liberty to have gone up to <hi>London,</hi> there to have compounded for a part of the eſtate of a Nephew of mine, a little be<g ref="char:EOLhyphen"/>fore ſlaine on the Kings ſide, to which I was his heir at Law, but could not then obtaine that favour, nor the year after neither, but upon the termes you may finde in the addition to what hath paſſed between me, and the ſaid Committee. By which relations, your Lordſhip and the reſt may ſee, what my opinion of the ſaid Warre was from the beginning to the end there<g ref="char:EOLhyphen"/>of, and that my behaviour was ever conformable to my opinion, the grounds whereof I have diſcovered in my ſaid Problems. To which relations I have but this to adde, that in many extraordinary occaſions I have had ſince to examine my conſcience, I never yet found cauſe to repent me either of my opinion, or of my behaviour in reference to the ſaid Warre, and that my daily private prayers have been, and to this day
+<pb n="3" facs="tcp:179941:3"/>
+               <!-- PDF PAGE 90 -->conſtantly are agreeable unto them. In which a<g ref="char:EOLhyphen"/>mong many other relating to this Church, and State, I do ever make one Petition to this purpoſe, That God would be pleaſed to forgive all the National and perſonal ſinnes of the people of this Kingdome, but more eſpecially thoſe ſins (certainly known to his Di<g ref="char:EOLhyphen"/>vine Majeſty onely) for which he did firſt daſh the late King and his Parliament one againſt another, then raiſed up weak means by his Almighty power to de<g ref="char:EOLhyphen"/>ſtroy them both, and for which he hath already ſore<g ref="char:EOLhyphen"/>ly ſhaken, and now threatneth utterly to ruine this Church and State. And how near they now are to utter ruine by our diviſions at home, and Warre, and feare of more Warres from abroad; I would it were not too viſible to every one that hath but half an eye. For the prevention whereof I humbly beſeech your Lordſhip and the reſt to give me leave to propound theſe few things to your mature conſideration, and deliberate reſolution.</p>
+            <p>Firſt, becauſe it is impoſſible that we ſhould ever be brought to any good and perfect agreement among our ſelves (which if we once were againe, we need be in no more feare of all the world beſides then heretofore we were) until we have all made our peace with God, whether it may not be fit for your Lordſhip and the reſt ſpeedily to petition his Highneſſe, and his Parliament (who this very day are keeping a Faſt in their reſpective Houſes) to joyne together in the pro<g ref="char:EOLhyphen"/>claiming not of ſuch a Faſt as we have already kept too many, but ſuch a one as was proclaimed in <hi>Niniveh</hi> by the decree of the King, and his Nobles, and obſerved by the people thereof, when perhaps that great Ci<g ref="char:EOLhyphen"/>tie was not in greater danger then yours now is. And
+<pb n="4" facs="tcp:179941:4"/>
+               <!-- PDF PAGE 91 -->that as a neceſſarie preparative thereunto, there may be a convenient number of godly, wiſe perſons cho<g ref="char:EOLhyphen"/>ſen, and commiſſioned by them to make a prudent, and diligent enquirie after all the moſt crying ſins of this Kingdome, and thoſe in ſpecial, which may have been committed by the late King and his Parliaments, and for which it may moſt probablie be collected that God permitted the devil, and his inſtruments to ſtirre them up to the making of ſuch a Warre one againſt another, as I think is without preſident; till they were both deſtroyed: To which Commiſſioners, if by them commanded, I ſhall by letter, (for I am now too old for travels) freely declare the apprehenſions which have been now a long time fixed in my profoundeſt thoughts.</p>
+            <p>Secondly, whether it may not be, not only fit, but ne<g ref="char:EOLhyphen"/>ceſſarie for your Lordſhip, and the reſt in the ſame Petition: humblie to move the Lord Protector and his Parliament, that by their Authority an Act may ſpee<g ref="char:EOLhyphen"/>dilie be paſſed for the re-aſſembling of all the Mem<g ref="char:EOLhyphen"/>bers of both Houſes, who conſtantlie adhered to that Parliament of this Kingdome which was latelie in Warre with their King, and which certainlie was in<g ref="char:EOLhyphen"/>tended by the contrivers, and authorizers of the Solemn League and Covenant. For I humblie pray your Lordſhip and the reſt, to weigh the force of this <hi>Di<g ref="char:EOLhyphen"/>lemma</hi> in the balance of your moſt ſerious thoughts; That either that Parliament was diſſolv'd by the late Kings death, or it was not. If it were, then all the Acts and Ordinances of that piece of Parliament, which called it ſelfe a Parliament, and continu<g ref="char:EOLhyphen"/>ed to ſit after that time are Nullities, the many infallible conſequences whereof I will not deduce.
+<pb n="5" facs="tcp:179941:4"/>
+               <!-- PDF PAGE 91 -->If it were not, then though it have been diſcontinued now a great while, yet is it not diſſolv'd, this having been the peculiar right, and priviledge of that Par<g ref="char:EOLhyphen"/>liament, that it could not be diſſolv'd, prorogued, or adjourn'd but by Act of Parliament, which right and priviledge all that have entred into the ſaid Solemne League and Covenant are thereby obliged in their ſeveral Vocations to endeavour mutually to preſerve. And perhaps all you, my Lord and Gentlemen, I am ſure the generalitie of the Citie (not to mention thou<g ref="char:EOLhyphen"/>ſands in the Countrey, as well of the Kings Partie as of the Parliaments) have ſworne that Covenant with hands lifted up to the moſt High God, who will not be mocked. And beſides this, how the ancient and undoubted Liberties, and priviledges of Parliament, which by the additional Petition and Adviſe the late Lord Protector, and all his Succeſſors was, and are bound to preſerve (as I humblie conceive) and not to ſuffer them to be broken or interrupted, can be pre<g ref="char:EOLhyphen"/>ſerved, and ſecured from being broken and interrupted: Or how the Rights and Liberties of the people of this Kingdome, which by the ſame additional advice eve<g ref="char:EOLhyphen"/>ry member of Parliament, as a Member of Parliament, is by his Oath bound to endeavour to preſerve, can be preſerved by any other means beſide the recontinuing of that Parliament the contriver or contrivers, and the givers of that Advice might poſſibly comprehend, and ſo may the Members of the preſent Parliament (for ſo many quick-ſighted eyes may ſee much more then any one) but I will here freely acknowledge, that it is be<g ref="char:EOLhyphen"/>yond the reach of my underſtanding.</p>
+            <p>In the third place my humble requeſt to your Lordſhip and the reſt is, that either by a Petition from
+<pb n="6" facs="tcp:179941:5"/>
+               <!-- PDF PAGE 92 -->your ſelves, in the name of the whole City to his Highneſſe the Lord Protector, or by a motion from thoſe choſen by the Citie to ſerve in this Parliament, or by both, as to your wiſdomes it ſhall ſeeme moſt expedient, you would be pleaſed to move, that all Members of both Houſes of this, and of all future Parli<g ref="char:EOLhyphen"/>aments may take that Oath, which with the Bill to that purpoſe hereunto annexed, was by me drawn up in the third year of the Reign of the late King, by the advice of the Lord <hi>Cook,</hi> and by me offer'd to the then Houſe of Commons, after I had therin made the ſpeech hereunto annext, which I had before that ſhew'd by a friend to a Peere of this Kingdome, then, and yet of greateſt reputation for wiſdome, and had his approbation thereof; Or if that Oath ſhall be found either defe<g ref="char:EOLhyphen"/>ctive, or inconvenient in any reſpect, then ſome other Oath of their own framing to the ſame purpoſe. The chief of the Aldermen who ſerved in that Parliament for the Citie (whoſe name I have now forgotten) was pleaſed to ſecond me very affectionatelie, when I brought in that Bill, yet, by the occaſion I have toucht in the adjoyn'd Advertiſement, after a ſecond Read<g ref="char:EOLhyphen"/>ing it was ſo committed, that it hath been a cloſe priſoner ever ſince. For though it were by me ſince put into the hands of a Member of the Houſe of Commons, ſoon after the opening of the late long Parliament, with a deſire to have had the Act firſt turn'd into an Ordinance, and then paſſed by the Upper Houſe unto the late King for his Royal Aſſent, which no doubt his Majeſty would moſt gladly, not onely have given, but have taken the ſame Oath himſelf, if that had been humbly deſired of his Majeſty, and that, by Gods bleſſing, might have been a means to have pre<g ref="char:EOLhyphen"/>vented
+<pb n="7" facs="tcp:179941:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 92 -->the great miſ-underſtanding between his Ma<g ref="char:EOLhyphen"/>jeſtie and that Parliament at firſt, afterwards ſet on fire, and blowne up into the flame of a moſt unnatu<g ref="char:EOLhyphen"/>ral War by Jeſuitical counſels, given on both ſides ſo craftilie, that they who gave theſe councels were ne<g ref="char:EOLhyphen"/>ver diſcovered on either ſide. For the men of that Sect have been long verſ'd in the trick, to ſet up a pack of Cards in ſuch a manner, that all the Diamonds (I meane Puritans) from the Ace to the Ten, ſhall by tales ſuggeſted to them, ſeem to be they that throw down all the Coat Cards of that colour, when in truth the knave of Clubbs is the firſt mover of the Bunch. But that Member of the Houſe of Commons conſpired with the formerly intimated, to keep the ſaid Bill cloſe in his own hands, for ought I know, why he knoweth beſt. I have therefore now ſet it at full libertie, and do hereby humblie recommend it not onely to your Lordſhip, and the reſt of the Gentlemen to whom it is addreſſed, but under their good favour, and with due ſubmiſſion to the conſideration of all the Members of both Houſes of the preſent Parliament. From whom if it, with the reſt I have now taken the boldneſſe to offer to you, my Lord, and Gentlemen, ſhall be ſo happy as to paſſe to his Highneſſe the Lord Protector, I can therefore have no doubt of his Highneſs aſſent thereunto, becauſe to the beſt of my poore underſtand<g ref="char:EOLhyphen"/>ing, no humane means can tend more to the ſettling of his Highneſs, and of this, and the neighbour Kingdoms too in a happy condition. Wherein, after ſome months (I might ſay years) debate thereupon with my ſelfe, and as long continued prayers to God night and day for the aſſiſtance of his holy Spirit of wiſdom, which he hath promiſed to give to them that want and ask it, I
+<pb n="8" facs="tcp:179941:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 93 -->am grown ſo confident, that if I were as much and nearly intereſted in his Highneſs proſperity, as his Con<g ref="char:EOLhyphen"/>ſort and children are, and in the proſperity of theſe Kingdoms as himſelf is, and had the honour to be as high a favourite of his affaires, as Cardinal <hi>VVolfey</hi> ſometime was to King <hi>Henry</hi> the eighth; I would give his Highneſſe the ſame councel I have now preſum'd in all humility to propound to your Lordſhip, and the reſt, but with this caveat, that the matter might be ſo manag'd by his wiſdome, that it might be given to him by others, and not be known to have been either given by me, or taken by himſelf.</p>
+            <p>Whereunto I have but this to adde in the fourth and laſt place, that you my Lord Mayor, Aldermen, and Common-Councel, and by your perſwaſion, the whole City would withal be pleaſed unanimouſly to reſolve, and as unanimouſly to declare your full re<g ref="char:EOLhyphen"/>ſolution, to ſtand by his highneſſe with your lives and e<g ref="char:EOLhyphen"/>ſtates againſt all oppoſition whatſoever, if it may pleaſe his Highneſſe to re-continue the ſaid long Parliament (which heretofore ſtood chiefly by your ſupport under God) according to the tenour of your Petition to his Highneſſe, or his Parliament, or rather to them both. And that your Lordſhip, and the Citie, which payeth moſt by much in all impoſed taxes, would in that re<g ref="char:EOLhyphen"/>ſpect, do your ſelves the honour, and right to be the firſt to move in the Houſe of Commons, that a ſufficient ſupply may be by them preſently granted and ſent up to the Other Houſe, and without any delay ten<g ref="char:EOLhyphen"/>dred to his Highneſs for the ſupplie of the many great and urgent occaſions of the State at home, and abroad, till the alreadie longeſt Parliament that ever met may be re-aſſembled, and continued ſo much longer onelie,
+<pb n="9" facs="tcp:179941:6"/>
+               <!-- PDF PAGE 93 -->till now this extreamlie diſcompos'd and diſordered Church and State, may be by them through Gods bleſ<g ref="char:EOLhyphen"/>ſing reduced to ſome good ſettlement upon righteous foundations (no other being durable) which if I may live to ſee, I ſhall then joyfully ſing my <hi>Nunc dimittis,</hi> this being the ſeventie third Year of my age. The God and Lord of the Spirits of all fleſh put ſuch thoughts and reſolutions into the heart of your Lord<g ref="char:EOLhyphen"/>ſhip, and of all thoſe to whom theſe poor papers are addreſſed, and of all other into whoſe hands they may come, as may tend moſt to the advancement of his own honour, and of the weale of this Church and State, ac<g ref="char:EOLhyphen"/>cording to the prayer of</p>
+            <closer>
+               <salute>My Lord and Gentlemen,</salute> 
+               <signed>Your Lordſhips, and theirs, and the Cities moſt humble ſervant. <hi>FRANCIS NETHERSOLE.</hi>
+               </signed>
+               <dateline>From my Cell at <hi>Poleſworth</hi> in the County of <hi>Warwick,</hi> 
+                  <date>this 27. of <hi>Jan.</hi> 1658.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
